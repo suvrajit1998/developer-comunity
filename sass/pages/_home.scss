@@ -1,0 +1,28 @@
+.section-features {
+  padding: 20rem 0;
+  background: linear-gradient(to bottom, $color-promary, $color-secondary),
+    url(/image/features-p1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  clip-path: polygon(0 10vh, 50% 0, 100% 30vh, 100% 100%, 0 100%);
+  transform: skewY(-7deg);
+
+  & > * {
+    transform: skewY(7deg);
+  }
+}
+.section-team {
+  padding: 0 20rem;
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(to bottom, $color-promary, $color-secondary),
+    url(/image/team-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  background-attachment: fixed;
+  // transform: skewX(-13deg);
+  overflow: hidden;
+  clip-path: polygon(0 20vh, 100% 0, 100% 100%, 0 100%);
+}

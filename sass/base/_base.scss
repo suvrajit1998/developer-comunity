@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  // scrollbar-color: auto | dark | light | <color>;
+}
+
+body {
+  box-sizing: border-box;
+  // @supports (scrollbar-color: orange pink) {
+  //   .no-support {
+  //     display: none;
+  //   }
+  // }
+}
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: aqua;
+}

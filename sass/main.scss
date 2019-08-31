@@ -1,0 +1,21 @@
+//abstracs section..
+@import "abstrac/function";
+@import "abstrac/mixin";
+@import "abstrac/variable";
+
+//base section
+@import "base/animation";
+@import "base/base";
+@import "base/typography";
+@import "base/utilitis";
+
+//components section
+@import "components/featuresbox";
+@import "components/button";
+@import "components/section-team";
+
+//layout section
+@import "layout/header";
+
+//pages
+@import "pages/home";
