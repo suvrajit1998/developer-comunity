@@ -409,8 +409,8 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(/image/header-p1.jpg);
-  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(/image/header-p1.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(https://images.pexels.com/photos/908284/pexels-photo-908284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(https://images.pexels.com/photos/908284/pexels-photo-908284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -440,8 +440,8 @@ body {
 
 .section-features {
   padding: 20rem 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(/image/features-p1.jpg);
-  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(/image/features-p1.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(https://images.pexels.com/photos/1549702/pexels-photo-1549702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(https://images.pexels.com/photos/1549702/pexels-photo-1549702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -460,8 +460,8 @@ body {
   padding: 0 20rem;
   height: 100vh;
   width: 100%;
-  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(/image/team-bg.jpg);
-  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(/image/team-bg.jpg);
+  background: -webkit-gradient(linear, left top, left bottom, from(#d2fafb9d), to(#96cbccd0)), url(https://images.pexels.com/photos/1936299/pexels-photo-1936299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background: linear-gradient(to bottom, #d2fafb9d, #96cbccd0), url(https://images.pexels.com/photos/1936299/pexels-photo-1936299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
   background-size: cover;
   background-position: center;
   position: relative;
